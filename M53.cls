@@ -10,8 +10,9 @@ ClassMethod Match(start, end, prop)
 			w i, "符合", $char(i),!
 		} else{
 			w i, "不符合",!
-		}
+		}   
 	}
+	s a =1
 }
 
 /// d ##class(M.M53).Match1(48,58,"digit")
