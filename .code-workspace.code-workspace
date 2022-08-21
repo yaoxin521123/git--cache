@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "default~cache:DHC-APP",
+			"uri": "isfs://default~cache:dhc-app/"
+		},
+		{
+			"name": "default~cache:YX",
+			"uri": "isfs://default~cache:yx/"
+		}
+	],
+	"settings": {
+		"open-in-browser.default": "Chrome",
+		"objectscript.showExplorer": false
+	}
+}
